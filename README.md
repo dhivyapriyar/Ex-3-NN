@@ -99,7 +99,7 @@ predict(w1,w2,test)
 test=np.array([[0],[0]])
 predict(w1,w2,test)
 ```
-<H3>Output:</H3>
+Output:
 
 ![image](https://github.com/dhivyapriyar/Ex-3-NN/assets/119477552/89909e4a-013b-46a9-9a23-84dd81ddf8ce)
 
